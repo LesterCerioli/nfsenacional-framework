@@ -1,0 +1,13 @@
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\bin\Debug\exemplos.exe.config
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\bin\Debug\exemplos.exe
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\bin\Debug\exemplos.pdb
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\bin\Debug\ns-nfsenacional-csharp.dll
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\bin\Debug\ns-nfsenacional-csharp.pdb
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\bin\Debug\ns-nfsenacional-csharp.dll.config
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\obj\Debug\exemplos.csproj.AssemblyReference.cache
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\obj\Debug\exemplos.csproj.CoreCompileInputs.cache
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\obj\Debug\exemplos.csproj.Up2Date
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\obj\Debug\exemplos.exe
+C:\Projetos-INTeETC\projetos andriel\ns-nfsenacional-csharp\exemplos\obj\Debug\exemplos.pdb

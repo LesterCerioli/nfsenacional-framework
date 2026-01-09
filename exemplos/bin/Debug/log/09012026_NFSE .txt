@@ -1,0 +1,526 @@
+09/01/2026 16:08:56 - [EMISSAO_SINCRONA_INICIO]
+09/01/2026 16:09:02 - [ENVIO_DADOS]
+09/01/2026 16:09:02 - {
+	"DPS": {
+		"versao": "1.00",
+		"infDPS": {
+			"tpAmb": "2",
+			"dhEmi": "2026-01-09T15:59:00-03:00",
+			"verAplic": "NS1.0.0",
+			"serie": "1",
+			"nDPS": "27",
+			"dCompet": "2025-01-09",
+			"tpEmit": "1",
+			"cLocEmi": "3106200",
+			"prest": {
+				"CNPJ": "13278005000122",
+				"fone": "3192106582",
+				"email": "FERNANDOAVRA@GMAIL.COM",
+				"regTrib": {
+					"opSimpNac": "3",
+					"regApTribSN": "1",
+					"regEspTrib": "0"
+				}
+			},
+			"serv": {
+				"locPrest": {
+					"cLocPrestacao": "3106200"
+				},
+				"cServ": {
+					"cTribNac": "171102",
+					"cTribMun": "002",
+					"xDescServ": "Mensalidade Sistema Food Plus",
+					"cNBS": "103012200"
+				}
+			},
+			"valores": {
+				"vServPrest": {
+					"vServ": "1000.00"
+				},
+				"trib": {
+					"tribMun": {
+						"tribISSQN": "1",
+						"tpRetISSQN": "1"
+					},
+					"tribFed": {
+						"piscofins": {
+							"CST": "08"
+						}
+					},
+					"totTrib": {
+						"pTotTribSN": "12.00"
+					}
+				}
+			}
+		}
+	}
+}
+09/01/2026 16:10:20 - [EMISSAO_SINCRONA_INICIO]
+09/01/2026 16:10:21 - [ENVIO_DADOS]
+09/01/2026 16:10:22 - {
+	"DPS": {
+		"versao": "1.00",
+		"infDPS": {
+			"tpAmb": "2",
+			"dhEmi": "2026-01-09T15:59:00-03:00",
+			"verAplic": "NS1.0.0",
+			"serie": "1",
+			"nDPS": "27",
+			"dCompet": "2025-01-09",
+			"tpEmit": "1",
+			"cLocEmi": "3106200",
+			"prest": {
+				"CNPJ": "13278005000122",
+				"fone": "3192106582",
+				"email": "FERNANDOAVRA@GMAIL.COM",
+				"regTrib": {
+					"opSimpNac": "3",
+					"regApTribSN": "1",
+					"regEspTrib": "0"
+				}
+			},
+			"serv": {
+				"locPrest": {
+					"cLocPrestacao": "3106200"
+				},
+				"cServ": {
+					"cTribNac": "171102",
+					"cTribMun": "002",
+					"xDescServ": "Mensalidade Sistema Food Plus",
+					"cNBS": "103012200"
+				}
+			},
+			"valores": {
+				"vServPrest": {
+					"vServ": "1000.00"
+				},
+				"trib": {
+					"tribMun": {
+						"tribISSQN": "1",
+						"tpRetISSQN": "1"
+					},
+					"tribFed": {
+						"piscofins": {
+							"CST": "08"
+						}
+					},
+					"totTrib": {
+						"pTotTribSN": "12.00"
+					}
+				}
+			}
+		}
+	}
+}
+09/01/2026 16:10:26 - [ENVIO_RESPOSTA]
+09/01/2026 16:10:27 - {"status":200,"motivo":"NFSe enviado para Sefaz","nsNRec":79}
+09/01/2026 16:10:39 - [CONSULTA_DADOS]
+09/01/2026 16:10:39 - {"CNPJ":"07364617000135","nsNRec":"79","tpAmb":"2"}
+09/01/2026 16:10:44 - [CONSULTA_RESPOSTA]
+09/01/2026 16:11:05 - {"status":-2,"motivo":"Nao foi possivel carregar o status da NFSe","erro":{"cStat":997,"xMotivo":"Documento não Localizado em Nosso Banco de Dados"}}
+09/01/2026 16:11:14 - [JSON_RETORNO]
+09/01/2026 16:11:14 - {"chDPS":"","chNFSe":"","statusEnvio":"200","statusConsulta":"-2","statusDownload":"","cStat":"","nProt":"","motivo":"Nao foi possivel carregar o status da NFSe","nsNRec":"79","erros":null}
+09/01/2026 16:11:15 - [EMISSAO_SINCRONA_FIM]
+09/01/2026 16:14:35 - [EMISSAO_SINCRONA_INICIO]
+09/01/2026 16:14:35 - [ENVIO_DADOS]
+09/01/2026 16:14:35 - {
+	"DPS": {
+		"versao": "1.00",
+		"infDPS": {
+			"tpAmb": "2",
+			"dhEmi": "2026-01-09T15:59:00-03:00",
+			"verAplic": "NS1.0.0",
+			"serie": "1",
+			"nDPS": "27",
+			"dCompet": "2025-01-09",
+			"tpEmit": "1",
+			"cLocEmi": "3106200",
+			"prest": {
+				"CNPJ": "13278005000122",
+				"fone": "3192106582",
+				"email": "FERNANDOAVRA@GMAIL.COM",
+				"regTrib": {
+					"opSimpNac": "3",
+					"regApTribSN": "1",
+					"regEspTrib": "0"
+				}
+			},
+			"serv": {
+				"locPrest": {
+					"cLocPrestacao": "3106200"
+				},
+				"cServ": {
+					"cTribNac": "171102",
+					"cTribMun": "002",
+					"xDescServ": "Mensalidade Sistema Food Plus",
+					"cNBS": "103012200"
+				}
+			},
+			"valores": {
+				"vServPrest": {
+					"vServ": "1000.00"
+				},
+				"trib": {
+					"tribMun": {
+						"tribISSQN": "1",
+						"tpRetISSQN": "1"
+					},
+					"tribFed": {
+						"piscofins": {
+							"CST": "08"
+						}
+					},
+					"totTrib": {
+						"pTotTribSN": "12.00"
+					}
+				}
+			}
+		}
+	}
+}
+09/01/2026 16:14:37 - [ENVIO_RESPOSTA]
+09/01/2026 16:14:37 - {"status":-6,"motivo":"Documento ja processado anteriormente e autorizado","nsNRec":79}
+09/01/2026 16:14:37 - [CONSULTA_DADOS]
+09/01/2026 16:14:37 - {"CNPJ":"07364617000135","nsNRec":"79","tpAmb":"2"}
+09/01/2026 16:14:37 - [CONSULTA_RESPOSTA]
+09/01/2026 16:14:37 - {"status":-2,"motivo":"Nao foi possivel carregar o status da NFSe","erro":{"cStat":997,"xMotivo":"Documento não Localizado em Nosso Banco de Dados"}}
+09/01/2026 16:14:38 - [CONSULTA_DADOS]
+09/01/2026 16:14:38 - {"CNPJ":"07364617000135","nsNRec":"79","tpAmb":"2"}
+09/01/2026 16:14:38 - [CONSULTA_RESPOSTA]
+09/01/2026 16:14:38 - {"status":-2,"motivo":"Nao foi possivel carregar o status da NFSe","erro":{"cStat":997,"xMotivo":"Documento não Localizado em Nosso Banco de Dados"}}
+09/01/2026 16:14:39 - [CONSULTA_DADOS]
+09/01/2026 16:14:39 - {"CNPJ":"07364617000135","nsNRec":"79","tpAmb":"2"}
+09/01/2026 16:14:39 - [CONSULTA_RESPOSTA]
+09/01/2026 16:14:39 - {"status":-2,"motivo":"Nao foi possivel carregar o status da NFSe","erro":{"cStat":997,"xMotivo":"Documento não Localizado em Nosso Banco de Dados"}}
+09/01/2026 16:14:40 - [JSON_RETORNO]
+09/01/2026 16:14:40 - {"chDPS":"","chNFSe":"","statusEnvio":"-6","statusConsulta":"-2","statusDownload":"","cStat":"","nProt":"","motivo":"Nao foi possivel carregar o status da NFSe","nsNRec":"79","erros":null}
+09/01/2026 16:14:40 - [EMISSAO_SINCRONA_FIM]
+09/01/2026 16:15:02 - [EMISSAO_SINCRONA_INICIO]
+09/01/2026 16:15:03 - [ENVIO_DADOS]
+09/01/2026 16:15:03 - {
+	"DPS": {
+		"versao": "1.00",
+		"infDPS": {
+			"tpAmb": "2",
+			"dhEmi": "2026-01-09T15:59:00-03:00",
+			"verAplic": "NS1.0.0",
+			"serie": "1",
+			"nDPS": "27",
+			"dCompet": "2025-01-09",
+			"tpEmit": "1",
+			"cLocEmi": "3106200",
+			"prest": {
+				"CNPJ": "13278005000122",
+				"fone": "3192106582",
+				"email": "FERNANDOAVRA@GMAIL.COM",
+				"regTrib": {
+					"opSimpNac": "3",
+					"regApTribSN": "1",
+					"regEspTrib": "0"
+				}
+			},
+			"serv": {
+				"locPrest": {
+					"cLocPrestacao": "3106200"
+				},
+				"cServ": {
+					"cTribNac": "171102",
+					"cTribMun": "002",
+					"xDescServ": "Mensalidade Sistema Food Plus",
+					"cNBS": "103012200"
+				}
+			},
+			"valores": {
+				"vServPrest": {
+					"vServ": "1000.00"
+				},
+				"trib": {
+					"tribMun": {
+						"tribISSQN": "1",
+						"tpRetISSQN": "1"
+					},
+					"tribFed": {
+						"piscofins": {
+							"CST": "08"
+						}
+					},
+					"totTrib": {
+						"pTotTribSN": "12.00"
+					}
+				}
+			}
+		}
+	}
+}
+09/01/2026 16:15:04 - [ENVIO_RESPOSTA]
+09/01/2026 16:15:04 - {"status":-6,"motivo":"Documento ja processado anteriormente e autorizado","nsNRec":79}
+09/01/2026 16:15:25 - [CONSULTA_DADOS]
+09/01/2026 16:15:26 - {"CNPJ":"07364617000135","nsNRec":"79","tpAmb":"2"}
+09/01/2026 16:16:54 - [EMISSAO_SINCRONA_INICIO]
+09/01/2026 16:16:54 - [ENVIO_DADOS]
+09/01/2026 16:16:54 - {
+	"DPS": {
+		"versao": "1.00",
+		"infDPS": {
+			"tpAmb": "2",
+			"dhEmi": "2026-01-09T15:59:00-03:00",
+			"verAplic": "NS1.0.0",
+			"serie": "1",
+			"nDPS": "27",
+			"dCompet": "2025-01-09",
+			"tpEmit": "1",
+			"cLocEmi": "3106200",
+			"prest": {
+				"CNPJ": "13278005000122",
+				"fone": "3192106582",
+				"email": "FERNANDOAVRA@GMAIL.COM",
+				"regTrib": {
+					"opSimpNac": "3",
+					"regApTribSN": "1",
+					"regEspTrib": "0"
+				}
+			},
+			"serv": {
+				"locPrest": {
+					"cLocPrestacao": "3106200"
+				},
+				"cServ": {
+					"cTribNac": "171102",
+					"cTribMun": "002",
+					"xDescServ": "Mensalidade Sistema Food Plus",
+					"cNBS": "103012200"
+				}
+			},
+			"valores": {
+				"vServPrest": {
+					"vServ": "1000.00"
+				},
+				"trib": {
+					"tribMun": {
+						"tribISSQN": "1",
+						"tpRetISSQN": "1"
+					},
+					"tribFed": {
+						"piscofins": {
+							"CST": "08"
+						}
+					},
+					"totTrib": {
+						"pTotTribSN": "12.00"
+					}
+				}
+			}
+		}
+	}
+}
+09/01/2026 16:16:55 - [ENVIO_RESPOSTA]
+09/01/2026 16:16:55 - {"status":-6,"motivo":"Documento ja processado anteriormente e autorizado","nsNRec":79}
+09/01/2026 16:17:13 - [CONSULTA_DADOS]
+09/01/2026 16:17:13 - {"CNPJ":"07364617000135","nsNRec":"79","tpAmb":"2"}
+09/01/2026 16:19:19 - [EMISSAO_SINCRONA_INICIO]
+09/01/2026 16:19:20 - [ENVIO_DADOS]
+09/01/2026 16:19:20 - {
+	"DPS": {
+		"versao": "1.00",
+		"infDPS": {
+			"tpAmb": "2",
+			"dhEmi": "2026-01-09T15:59:00-03:00",
+			"verAplic": "NS1.0.0",
+			"serie": "1",
+			"nDPS": "27",
+			"dCompet": "2025-01-09",
+			"tpEmit": "1",
+			"cLocEmi": "3106200",
+			"prest": {
+				"CNPJ": "13278005000122",
+				"fone": "3192106582",
+				"email": "FERNANDOAVRA@GMAIL.COM",
+				"regTrib": {
+					"opSimpNac": "3",
+					"regApTribSN": "1",
+					"regEspTrib": "0"
+				}
+			},
+			"serv": {
+				"locPrest": {
+					"cLocPrestacao": "3106200"
+				},
+				"cServ": {
+					"cTribNac": "171102",
+					"cTribMun": "002",
+					"xDescServ": "Mensalidade Sistema Food Plus",
+					"cNBS": "103012200"
+				}
+			},
+			"valores": {
+				"vServPrest": {
+					"vServ": "1000.00"
+				},
+				"trib": {
+					"tribMun": {
+						"tribISSQN": "1",
+						"tpRetISSQN": "1"
+					},
+					"tribFed": {
+						"piscofins": {
+							"CST": "08"
+						}
+					},
+					"totTrib": {
+						"pTotTribSN": "12.00"
+					}
+				}
+			}
+		}
+	}
+}
+09/01/2026 16:19:21 - [ENVIO_RESPOSTA]
+09/01/2026 16:19:21 - {"status":-6,"motivo":"Documento ja processado anteriormente e autorizado","nsNRec":79}
+09/01/2026 16:19:27 - [CONSULTA_DADOS]
+09/01/2026 16:19:27 - {"CNPJ":"13278005000122","nsNRec":"79","tpAmb":"2"}
+09/01/2026 16:19:27 - [CONSULTA_RESPOSTA]
+09/01/2026 16:19:27 - {"status":200,"motivo":"Consulta realizada com sucesso","chDPS":"310620021327800500012200001000000000000027","chNFSe":"31062002213278005000122000000000002726012950868678","cStat":"100","xMotivo":"Autorizado o Uso do Documento","xml":"<?xml version=\"1.0\" encoding=\"utf-8\"?><NFSe versao=\"1.01\" xmlns=\"http://www.sped.fazenda.gov.br/nfse\"><infNFSe Id=\"NFS31062002213278005000122000000000002726012950868678\"><xLocEmi>Belo Horizonte</xLocEmi><xLocPrestacao>Belo Horizonte</xLocPrestacao><nNFSe>27</nNFSe><cLocIncid>3106200</cLocIncid><xLocIncid>Belo Horizonte</xLocIncid><xTribNac>Bufê (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS).</xTribNac><xTribMun>Preparo de alimentos (exceto o fornecimento de alimentação e bebidas que fica sujeito ao icms)</xTribMun><xNBS>Fornecimento de comidas rápidas (fast-food)</xNBS><verAplic>SefinNacional_1.5.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat><dhProc>2026-01-09T16:10:25-03:00</dhProc><nDFSe>790824</nDFSe><emit><CNPJ>13278005000122</CNPJ><xNome>XS TECNOLOGIA DA INFORMACAO LTDA</xNome><enderNac><xLgr>DEPUTADO JOSE RAIMUNDO</xLgr><nro>407</nro><xBairro>DONA CLARA</xBairro><cMun>3106200</cMun><UF>MG</UF><CEP>31260150</CEP></enderNac><fone>3192106582</fone><email>FERNANDOAVRA@GMAIL.COM</email></emit><valores><vLiq>1000.00</vLiq></valores><DPS versao=\"1.00\" xmlns=\"http://www.sped.fazenda.gov.br/nfse\"><infDPS Id=\"DPS310620021327800500012200001000000000000027\"><tpAmb>2</tpAmb><dhEmi>2026-01-09T15:59:00-03:00</dhEmi><verAplic>NS1.0.0</verAplic><serie>1</serie><nDPS>27</nDPS><dCompet>2025-01-09</dCompet><tpEmit>1</tpEmit><cLocEmi>3106200</cLocEmi><prest><CNPJ>13278005000122</CNPJ><fone>3192106582</fone><email>FERNANDOAVRA@GMAIL.COM</email><regTrib><opSimpNac>3</opSimpNac><regApTribSN>1</regApTribSN><regEspTrib>0</regEspTrib></regTrib></prest><serv><locPrest><cLocPrestacao>3106200</cLocPrestacao></locPrest><cServ><cTribNac>171102</cTribNac><cTribMun>002</cTribMun><xDescServ>Mensalidade Sistema Food Plus</xDescServ><cNBS>103012200</cNBS></cServ></serv><valores><vServPrest><vServ>1000.00</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN><tpRetISSQN>1</tpRetISSQN></tribMun><totTrib><pTotTribSN>12.00</pTotTribSN></totTrib></trib></valores></infDPS><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\" /><Reference URI=\"#DPS310620021327800500012200001000000000000027\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\" /><DigestValue>So9ZFGSvd1o/AMhTiS7lS2P3a78=</DigestValue></Reference></SignedInfo><SignatureValue>dOZ/huzsAjmiAMGz8ikcL4QtKmmKUbCIt+TrI4jXSwhP1pQdwFeGCgg+6wZIJR9M/MnmQ2RHSwPNgkPMkqevsQQqTeT1SjXAFTII46k7fs1vvLXy10o7d1z4G3HqE6IPDcoebVMmzezlXuC9KOKGGAqyo81yRv8AF3FrhIWky3/KA0+KUZjmsaAgrklpyjeK79TiXqbFriLUGesLKFJZcxOvLSHxWZvwe/mk+9/i8DFM7hvCjeFEnTQjH5q7YFNkaoNdwVdN+tf4CIeVXGlqeWAfmFvcNuIqVOq+1/eMrWX3korA6L7JyaIlOo00u2yRa+JUWSAjOUX2I3W1WTaIBA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIHzCCBgegAwIBAgIQfqli598AautVlPvVnb3XijANBgkqhkiG9w0BAQsFADB0MQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDEtMCsGA1UECxMkQ2VydGlzaWduIENlcnRpZmljYWRvcmEgRGlnaXRhbCBTLkEuMSEwHwYDVQQDExhBQyBDZXJ0aXNpZ24gTXVsdGlwbGEgRzcwHhcNMjUwOTExMDQyMjEzWhcNMjYwOTExMDQyMjEzWjCB8jELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1CcmFzaWwxCzAJBgNVBAgMAlNQMRMwEQYDVQQHDApTw6NvIFBhdWxvMRwwGgYDVQQLDBNWaWRlb0NvbmZlcsODwqpuY2lhMRcwFQYDVQQLDA4wMTU1NDI4NTAwMDE3NTEeMBwGA1UECwwVQUMgQ2VydGlzaWduIE11bHRpcGxhMRswGQYDVQQLDBJBc3NpbmF0dXJhIFRpcG8gQTExODA2BgNVBAMML1hTIFRFQ05PTE9HSUEgREEgSU5GT1JNQUNBTyBMVERBOjEzMjc4MDA1MDAwMTIyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzBZmMuBBJ7nwR2We12WLL4kKcRVY9KaQmYnIvaSyGfO6G4DpFJIXHwYS0o+IFbiHoYYjXhRyi/5BTrnqe9cutbFxta3QPKiEwOXz0p1BPtXoxCd5JEC7VKnChq49tw/HytYRbD+xX+GSDoPMYtubPC4Ddro6FPScWA+g834kqkwQbSSy1Q4qlJV0jcdGQ9p8QGPW9GioWFWZm2l1k5MGkRx6GV4Se5HZdY68tMAGqGTzX6YW0Kzhjisz4FbJuplVCos/sY5q6QY3MTA1EhhOpJLQm8c2hhOFNUkiIWgvUCBnJOrDRV1yhCdw6dKKcc/DMiWbFDvJv8lQ4YlR0URU+QIDAQABo4IDLDCCAygwgboGA1UdEQSBsjCBr6A4BgVgTAEDBKAvBC0wNDEwMTk3OTA1Mjg1NTk5NjYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCgKQYFYEwBAwKgIAQeTFVJWiBIRU5SSVFVRSBERSBGQVJJQSBNT1JFSVJBoBkGBWBMAQMDoBAEDjEzMjc4MDA1MDAwMTIyoBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIEUbHVpekBmb29kcGx1cy5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBRdcgy/M9K744am6EwGcX5VXAeg1jCBiwYDVR0gBIGDMIGAMH4GBmBMAQIBCzB0MHIGCCsGAQUFBwIBFmZodHRwOi8vaWNwLWJyYXNpbC5jZXJ0aXNpZ24uY29tLmJyL3JlcG9zaXRvcmlvL2RwYy9BQ19DZXJ0aXNpZ25fTXVsdGlwbGEvRFBDX0FDX0NlcnRpU2lnbl9NdWx0aXBsYS5wZGYwgcYGA1UdHwSBvjCBuzBcoFqgWIZWaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25NdWx0aXBsYUc3L0xhdGVzdENSTC5jcmwwW6BZoFeGVWh0dHA6Ly9pY3AtYnJhc2lsLm91dHJhbGNyLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25NdWx0aXBsYUc3L0xhdGVzdENSTC5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBtgYIKwYBBQUHAQEEgakwgaYwZAYIKwYBBQUHMAKGWGh0dHA6Ly9pY3AtYnJhc2lsLmNlcnRpc2lnbi5jb20uYnIvcmVwb3NpdG9yaW8vY2VydGlmaWNhZG9zL0FDX0NlcnRpc2lnbl9NdWx0aXBsYV9HNy5wN2MwPgYIKwYBBQUHMAGGMmh0dHA6Ly9vY3NwLWFjLWNlcnRpc2lnbi1tdWx0aXBsYS5jZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQCHFycHk1KMrP+rGYS3X/xhprHfLHoPLqXhzT4Lmrvj0gLCF2KyZiPE4LD65f1PPKX8BINTtgWLCRvQHA0hp//e5R1AlzSxilamg3fbRJfpTr3xudXgl+5qn3VS0uuFFFdqkCDbxMfsqT9euPi/FyKL6HV7KkrB3fDMFGRTSLeq4zCvYrYUUmMCDsM8S6fJQaicL9Ak1pzLhMULtFl9+SUJnxF+hVVwShBrmQoephkb0UdqxL35AcQUe0o04XggW8CzSjG9I+9fyCP72pt6glZLBuh/+XfDCG2mlPxPJcnkvZhpH3jDpOAIClqFX7HN55gtht6STUJBR0UcJktakUd4b7Ss4G5/RGda85vK4gYBUvTpoT6PMWDCwUFUEm1o6nAr10pTuwFgcAUzEWRfnZtTZuQmYmGebHe7NJWEKEitAKv8oMNKLtZiCxl9gNJhdkxrTGju9vPXX4zYWX8gcpWv6X75o1AQzsYX8q0dQHkM6aPgvNwa+TqVlCYGb5EHxE94HVuzNe0cAENetEpq62oc5t0OZ562N3kJ3Jlz+cwFXE2VMSlgctXOuQiwKxpTfX7BZo09d34Vf6t9x5RXxBPtPvh7H9Mj69kyDWFROEMG8DUGTOw5lAXcEbTOf4uS5RRPmXq7g5DR3rbUYD+sFE0JF+72cR2CurqnP8aiubO1Og==</X509Certificate></X509Data></KeyInfo></Signature></DPS></infNFSe><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/2001/10/xml-exc-c14n#WithComments\" /><SignatureMethod Algorithm=\"http://www.w3.org/2001/04/xmldsig-more#rsa-sha256\" /><Reference URI=\"#NFS31062002213278005000122000000000002726012950868678\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/2001/10/xml-exc-c14n#WithComments\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2001/04/xmlenc#sha256\" /><DigestValue>bBADxvbI7Lxuj0Gwks1VWX4afQWJzRtOJjIeSE8UpRY=</DigestValue></Reference></SignedInfo><SignatureValue>R4lFql4M+DgdsJTIqMVMRO8RuWusM7/xUrRanS5hXLSDE2oFRYtt1EDFhTwrltxTAcrbD1g5AV+x9oeXH3DgzG+aV8lzS+AMEZEPn+luEifN83TcflnNLdQ0rCL0+wRWEw7AWRB4h0r+/SIqZCFP97k8B56eE7+jfD7wEzG8SXjVRUfMYfTCMqIouylkTsx8Icx68t2VhSpiQgG1Fc+X/U19d8/BAXm4s0rrIgHmpXQB9ff94eq0fJP2o5ZkYs4mmZYiY9HkQbIfMkk1ySDBtWDKOC/cx4jpcB17Tq1jqO6YpjYuSeSWy1byVFo8NJlGsVp1HPss0VvThwxDB3uraw==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></NFSe>"}
+09/01/2026 16:20:00 - [DOWNLOAD_DADOS]
+09/01/2026 16:20:00 - {"chDPS":"310620021327800500012200001000000000000027","chNFSe":"31062002213278005000122000000000002726012950868678","tpAmb":"2","CNPJ":"13278005000122","tpDown":"XP"}
+09/01/2026 16:20:05 - [DOWNLOAD_STATUS]
+09/01/2026 16:20:05 - 200
+09/01/2026 16:20:32 - [JSON_RETORNO]
+09/01/2026 16:20:32 - {"chDPS":"310620021327800500012200001000000000000027","chNFSe":"31062002213278005000122000000000002726012950868678","statusEnvio":"-6","statusConsulta":"200","statusDownload":"200","cStat":"100","nProt":null,"motivo":"Autorizado o Uso do Documento","nsNRec":"79","erros":null}
+09/01/2026 16:20:33 - [EMISSAO_SINCRONA_FIM]
+09/01/2026 16:22:07 - [EMISSAO_SINCRONA_INICIO]
+09/01/2026 16:22:08 - [ENVIO_DADOS]
+09/01/2026 16:22:08 - {
+	"DPS": {
+		"versao": "1.00",
+		"infDPS": {
+			"tpAmb": "2",
+			"dhEmi": "2026-01-09T15:59:00-03:00",
+			"verAplic": "NS1.0.0",
+			"serie": "1",
+			"nDPS": "28",
+			"dCompet": "2025-01-09",
+			"tpEmit": "1",
+			"cLocEmi": "3106200",
+			"prest": {
+				"CNPJ": "13278005000122",
+				"fone": "3192106582",
+				"email": "FERNANDOAVRA@GMAIL.COM",
+				"regTrib": {
+					"opSimpNac": "3",
+					"regApTribSN": "1",
+					"regEspTrib": "0"
+				}
+			},
+			"serv": {
+				"locPrest": {
+					"cLocPrestacao": "3106200"
+				},
+				"cServ": {
+					"cTribNac": "171102",
+					"cTribMun": "002",
+					"xDescServ": "Mensalidade Sistema Food Plus",
+					"cNBS": "103012200"
+				}
+			},
+			"valores": {
+				"vServPrest": {
+					"vServ": "1000.00"
+				},
+				"trib": {
+					"tribMun": {
+						"tribISSQN": "1",
+						"tpRetISSQN": "1"
+					},
+					"tribFed": {
+						"piscofins": {
+							"CST": "08"
+						}
+					},
+					"totTrib": {
+						"pTotTribSN": "12.00"
+					}
+				}
+			}
+		}
+	}
+}
+09/01/2026 16:22:09 - [ENVIO_RESPOSTA]
+09/01/2026 16:22:09 - {"status":200,"motivo":"NFSe enviado para Sefaz","nsNRec":80}
+09/01/2026 16:22:23 - [CONSULTA_DADOS]
+09/01/2026 16:22:23 - {"CNPJ":"13278005000122","nsNRec":"80","tpAmb":"2"}
+09/01/2026 16:22:23 - [CONSULTA_RESPOSTA]
+09/01/2026 16:22:23 - {"status":200,"motivo":"Consulta realizada com sucesso","chDPS":"310620021327800500012200001000000000000028","chNFSe":"31062002213278005000122000000000002826019120538404","cStat":"100","xMotivo":"Autorizado o Uso do Documento","xml":"<?xml version=\"1.0\" encoding=\"utf-8\"?><NFSe versao=\"1.01\" xmlns=\"http://www.sped.fazenda.gov.br/nfse\"><infNFSe Id=\"NFS31062002213278005000122000000000002826019120538404\"><xLocEmi>Belo Horizonte</xLocEmi><xLocPrestacao>Belo Horizonte</xLocPrestacao><nNFSe>28</nNFSe><cLocIncid>3106200</cLocIncid><xLocIncid>Belo Horizonte</xLocIncid><xTribNac>Bufê (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS).</xTribNac><xTribMun>Preparo de alimentos (exceto o fornecimento de alimentação e bebidas que fica sujeito ao icms)</xTribMun><xNBS>Fornecimento de comidas rápidas (fast-food)</xNBS><verAplic>SefinNacional_1.5.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat><dhProc>2026-01-09T16:22:09-03:00</dhProc><nDFSe>790832</nDFSe><emit><CNPJ>13278005000122</CNPJ><xNome>XS TECNOLOGIA DA INFORMACAO LTDA</xNome><enderNac><xLgr>DEPUTADO JOSE RAIMUNDO</xLgr><nro>407</nro><xBairro>DONA CLARA</xBairro><cMun>3106200</cMun><UF>MG</UF><CEP>31260150</CEP></enderNac><fone>3192106582</fone><email>FERNANDOAVRA@GMAIL.COM</email></emit><valores><vLiq>1000.00</vLiq></valores><DPS versao=\"1.00\" xmlns=\"http://www.sped.fazenda.gov.br/nfse\"><infDPS Id=\"DPS310620021327800500012200001000000000000028\"><tpAmb>2</tpAmb><dhEmi>2026-01-09T15:59:00-03:00</dhEmi><verAplic>NS1.0.0</verAplic><serie>1</serie><nDPS>28</nDPS><dCompet>2025-01-09</dCompet><tpEmit>1</tpEmit><cLocEmi>3106200</cLocEmi><prest><CNPJ>13278005000122</CNPJ><fone>3192106582</fone><email>FERNANDOAVRA@GMAIL.COM</email><regTrib><opSimpNac>3</opSimpNac><regApTribSN>1</regApTribSN><regEspTrib>0</regEspTrib></regTrib></prest><serv><locPrest><cLocPrestacao>3106200</cLocPrestacao></locPrest><cServ><cTribNac>171102</cTribNac><cTribMun>002</cTribMun><xDescServ>Mensalidade Sistema Food Plus</xDescServ><cNBS>103012200</cNBS></cServ></serv><valores><vServPrest><vServ>1000.00</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN><tpRetISSQN>1</tpRetISSQN></tribMun><totTrib><pTotTribSN>12.00</pTotTribSN></totTrib></trib></valores></infDPS><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\" /><Reference URI=\"#DPS310620021327800500012200001000000000000028\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\" /><DigestValue>RHYLOC8POCLFFxxjfsloDBLtkGg=</DigestValue></Reference></SignedInfo><SignatureValue>aGOg4VKiAtU1azE7iygydjYuc5jI4oSmGuIsw6fgNEYKMWc8HXzHbIe/MZdE+zYU7QZNRzEEmvGRjZ/QrbPsYqfg6/O/O07TSu1ewbZjxHw/DS9POQZ4DwqreWfW8e+QlmX0Xxa4REG6+ocFR9ELOeFGYCXbZw5zo4NDMQYBY2VXlzEY0ntK7aGjxNsun1VC0fGpoZTs1PlMi57Pk5CWqtr7ocao1egWBEBOjwqi1dkv+F+OkGEXdHxDnQMyM5kkWzN2OZH7Vc6LsV0/+AjqmFZFIhxkQbjwlHOk8dGX0eCEoMYx5fXugwLVHMBy5kuwl5QVKh7Qk/S2BknxCjEvUA==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DPS></infNFSe><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/2001/10/xml-exc-c14n#WithComments\" /><SignatureMethod Algorithm=\"http://www.w3.org/2001/04/xmldsig-more#rsa-sha256\" /><Reference URI=\"#NFS31062002213278005000122000000000002826019120538404\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/2001/10/xml-exc-c14n#WithComments\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2001/04/xmlenc#sha256\" /><DigestValue>x8On/waAPneJW6ArRvMHxlleCHaWnVdmB8TtiRyiLW8=</DigestValue></Reference></SignedInfo><SignatureValue>Jr4C/5/fh6UOAenb9WeANQ20ph7mHVFx7yfP7rdxzNv6WPHhqelYmtBYVGgrvx6I8JjHT7wcVxisM2YRLFXHgQN4oreBZ5nDiaA/PQj8HVm8+YWY5B+uc+QmV0PdL/aZZkoUiqZ2RveP8u9wFZa/FEGACAzAIFo+rVLFdusCbe3WMH4PHfm6R9THv401r+iHQyDam736pXi9PhNbWtXTSwLBCxEL40A6ZiU79j4RznRYbAKS87wFMZs94IqrXQgMAKdpaCL1wVwTlfflOLMqIfrx3i/63aIsy4SypQohhtQYtMt3r5PqupkkSacMP2lIIkX8oY1DqzrLMaHuhN1lOg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIrjCCBpagAwIBAgIMGbn2tKBY0O9lJ3OBMA0GCSqGSIb3DQEBCwUAMIGMMQswCQYDVQQGEwJCUjETMBEGA1UECgwKSUNQLUJyYXNpbDE1MDMGA1UECwwsQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJhaXogQnJhc2lsZWlyYSB2MTAxMTAvBgNVBAMMKEF1dG9yaWRhZGUgQ2VydGlmaWNhZG9yYSBkbyBTRVJQUk8gU1NMdjEwHhcNMjUwNzA4MTg0ODAyWhcNMjYwNzA4MTg0ODAyWjCB1DELMAkGA1UEBhMCQlIxCzAJBgNVBAgMAkRGMREwDwYDVQQHDAhCUkFTSUxJQTEyMDAGA1UECgwpU0VSVklDTyBGRURFUkFMIERFIFBST0NFU1NBTUVOVE8gREUgREFET1MxFzAVBgNVBAUTDjMzNjgzMTExMDAwMTA3MSkwJwYDVQQDDCB3d3cucHJvZHVjYW9yZXN0cml0YS5uZnNlLmdvdi5icjEYMBYGA1UEDxMPQnVzaW5lc3MgRW50aXR5MRMwEQYLKwYBBAGCNzwCAQMTAkJSMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtaEoYx6RccAlkoiE8EwO7g+ypG6zNiyeAuwPT3eaoKzmMlKaVKEOcfk73Co50ObVO6KMRf0OugM+pIPDAb/P4VjmN5wrzLIiAeH9qxNmpqmnO179aCl4vjvXWJMzKWOxcr52mjy5oKfJbvdv7W+2SxSTuwtymHILaQ0wpeU7z3Bx+bU/1Spm9UKnONW8U7OdLBykg65HLTqtpdiPGcTHvGUzjQ4Npnt7a4swx41badeApBaEzBL2SzQzcPEPHMGjf+peZ5ypDZmvquwIMe3QdCbK5q1L52/YCizsnBGXSFZC7deWxxZOLOKEU7jVw56OPSBoLCkpyh3O8YWBJ8BilwIDAQABo4IDxDCCA8AwHwYDVR0jBBgwFoAUrRZPS/EMvsKKooUY1w1GJZMi480wDgYDVR0PAQH/BAQDAgWgMGMGA1UdIARcMFowCAYGZ4EMAQICME4GBmBMAQIBaTBEMEIGCCsGAQUFBwIBFjZodHRwOi8vcmVwb3NpdG9yaW8uc2VycHJvLmdvdi5ici9kb2NzL2RwY3NlcnByb3NzbC5wZGYwcQYDVR0RBGowaIIgd3d3LnByb2R1Y2FvcmVzdHJpdGEubmZzZS5nb3YuYnKCInNlZmluLnByb2R1Y2FvcmVzdHJpdGEubmZzZS5nb3YuYnKCIGFkbi5wcm9kdWNhb3Jlc3RyaXRhLm5mc2UuZ292LmJyMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATCBiAYDVR0fBIGAMH4wPKA6oDiGNmh0dHA6Ly9yZXBvc2l0b3Jpby5zZXJwcm8uZ292LmJyL2xjci9hY3NlcnByb3NzbHYxLmNybDA+oDygOoY4aHR0cDovL2NlcnRpZmljYWRvczIuc2VycHJvLmdvdi5ici9sY3IvYWNzZXJwcm9zc2x2MS5jcmwwgYcGCCsGAQUFBwEBBHsweTBCBggrBgEFBQcwAoY2aHR0cDovL3JlcG9zaXRvcmlvLnNlcnByby5nb3YuYnIvY2FkZWlhcy9zZXJwcm9zc2wucDdiMDMGCCsGAQUFBzABhidodHRwOi8vb2NzcC5zZXJwcm8uZ292LmJyL2Fjc2VycHJvc3NsdjEwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2ANdtfRDRp/V3wsfpX9cAv/mCyTNaZeHQswFzF8DIxWl3AAABl+td+ssAAAQDAEcwRQIhAP/AzUdFMMg5JTuHHsNFFfWx6Ov8fyxO/QkwiNJn44bAAiANZguY0WiQ9IcrByEKbWJRx/+GaHGP+x0C5W0DCC2jlgB2ANgJVTuUT3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7RUsUAAABl+td+8QAAAQDAEcwRQIgCWFTybJqHhaUKmkd9Da9al2KE0Go+Ere0lu06vrZ83ICIQD7rSxjxZZoxvnMxIFR9V/I5z3La6Z+GJdPlEhgcrr45QB3AHTbnVj31H6d/Xh6FiqZHBjPaY2nxymRjJoYsEUNukS8AAABl+teB2EAAAQDAEgwRgIhAN3CR4btj/TeDgg8J83whiWa4YJfAWD7p2f5pAYAKXhMAiEAtBglAvxkONGW1voCJvKGVMvXHu4eNUPlcxwYhNIa294wDQYJKoZIhvcNAQELBQADggIBAMs9u3KwjG5CfoP39bxAnlAOHDe3nfnlTm39iA/+ZciDKGXVLfSheEKz1Unh0QkD1QYdySynQz4HHMkj/w+auXeDT/mHLftw+N08m7wSEggNg6hntY7ziH8MjNRbXCduJACFy43XBngKN4AXcCQlVvnD+B9jHYrfEi9ZoU59wR3sCkszPLvHtGVPdGxhtLC8WaQWZCUT+nmovGBeQt1hr3ZVdAt/rqwl0L28mRueHZGpdjNKkMD/9BY2G8PHUafKbE/xqCoLVDHHzPlNN1Pjurtj21JGdxTFYyeBALxUvtqmsnG9rBssi2FOZFjbNeVTbbkZuz7eM58u9OYPsfWATujldUIxer5Ws9rBfTkiZljQrn9BimxW0lNZ78/PKnERorzzeZgGFiT4heij4lxY/ydlt6VTTHhbv3iDszIhFP/ga0GXFV6yHgMRNM1DfPe5NMKjhxr5vZKirWhLe5rumCKgB5+ICNXKvWcxhB5EIMT5g1dAhgowCuMlrd6FtfI916QOz16XinBl6jDIdXLzeP39NDOB+BEPA4N6gCqXynQFyiyukmStZ46DeD4MwkPhUqwfUGcEyzcq2t87DwYKuxg5DqAvL4HuTfsqQkg2obe4HwtrQC219mTnOVT5HKewJ+6wc74MDIpuMqYuNxdXef5YCYR9gi0M8Kw4VSfJic+a</X509Certificate></X509Data></KeyInfo></Signature></NFSe>"}
+09/01/2026 16:22:54 - [DOWNLOAD_DADOS]
+09/01/2026 16:22:54 - {"chDPS":"310620021327800500012200001000000000000028","chNFSe":"31062002213278005000122000000000002826019120538404","tpAmb":"2","CNPJ":"13278005000122","tpDown":"XP"}
+09/01/2026 16:22:58 - [DOWNLOAD_STATUS]
+09/01/2026 16:22:58 - 200
+09/01/2026 16:31:00 - [EMISSAO_SINCRONA_INICIO]
+09/01/2026 16:31:00 - [ENVIO_DADOS]
+09/01/2026 16:31:00 - {
+	"DPS": {
+		"versao": "1.00",
+		"infDPS": {
+			"tpAmb": "2",
+			"dhEmi": "2026-01-09T15:59:00-03:00",
+			"verAplic": "NS1.0.0",
+			"serie": "1",
+			"nDPS": "30",
+			"dCompet": "2025-01-09",
+			"tpEmit": "1",
+			"cLocEmi": "3106200",
+			"prest": {
+				"CNPJ": "13278005000122",
+				"fone": "3192106582",
+				"email": "FERNANDOAVRA@GMAIL.COM",
+				"regTrib": {
+					"opSimpNac": "3",
+					"regApTribSN": "1",
+					"regEspTrib": "0"
+				}
+			},
+			"serv": {
+				"locPrest": {
+					"cLocPrestacao": "3106200"
+				},
+				"cServ": {
+					"cTribNac": "171102",
+					"cTribMun": "002",
+					"xDescServ": "Mensalidade Sistema Food Plus",
+					"cNBS": "103012200"
+				}
+			},
+			"valores": {
+				"vServPrest": {
+					"vServ": "1000.00"
+				},
+				"trib": {
+					"tribMun": {
+						"tribISSQN": "1",
+						"tpRetISSQN": "1"
+					},
+					"tribFed": {
+						"piscofins": {
+							"CST": "08"
+						}
+					},
+					"totTrib": {
+						"pTotTribSN": "12.00"
+					}
+				}
+			}
+		}
+	}
+}
+09/01/2026 16:31:01 - [ENVIO_RESPOSTA]
+09/01/2026 16:31:01 - {"status":200,"motivo":"NFSe enviado para Sefaz","nsNRec":82}
+09/01/2026 16:31:05 - [CONSULTA_DADOS]
+09/01/2026 16:31:05 - {"CNPJ":"13278005000122","nsNRec":"82","tpAmb":"2"}
+09/01/2026 16:31:05 - [CONSULTA_RESPOSTA]
+09/01/2026 16:31:05 - {"status":200,"motivo":"Consulta realizada com sucesso","chDPS":"310620021327800500012200001000000000000030","chNFSe":"31062002213278005000122000000000003026018782617959","cStat":"100","xMotivo":"Autorizado o Uso do Documento","xml":"<?xml version=\"1.0\" encoding=\"utf-8\"?><NFSe versao=\"1.01\" xmlns=\"http://www.sped.fazenda.gov.br/nfse\"><infNFSe Id=\"NFS31062002213278005000122000000000003026018782617959\"><xLocEmi>Belo Horizonte</xLocEmi><xLocPrestacao>Belo Horizonte</xLocPrestacao><nNFSe>30</nNFSe><cLocIncid>3106200</cLocIncid><xLocIncid>Belo Horizonte</xLocIncid><xTribNac>Bufê (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS).</xTribNac><xTribMun>Preparo de alimentos (exceto o fornecimento de alimentação e bebidas que fica sujeito ao icms)</xTribMun><xNBS>Fornecimento de comidas rápidas (fast-food)</xNBS><verAplic>SefinNacional_1.5.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat><dhProc>2026-01-09T16:31:02-03:00</dhProc><nDFSe>790839</nDFSe><emit><CNPJ>13278005000122</CNPJ><xNome>XS TECNOLOGIA DA INFORMACAO LTDA</xNome><enderNac><xLgr>DEPUTADO JOSE RAIMUNDO</xLgr><nro>407</nro><xBairro>DONA CLARA</xBairro><cMun>3106200</cMun><UF>MG</UF><CEP>31260150</CEP></enderNac><fone>3192106582</fone><email>FERNANDOAVRA@GMAIL.COM</email></emit><valores><vLiq>1000.00</vLiq></valores><DPS versao=\"1.00\" xmlns=\"http://www.sped.fazenda.gov.br/nfse\"><infDPS Id=\"DPS310620021327800500012200001000000000000030\"><tpAmb>2</tpAmb><dhEmi>2026-01-09T15:59:00-03:00</dhEmi><verAplic>NS1.0.0</verAplic><serie>1</serie><nDPS>30</nDPS><dCompet>2025-01-09</dCompet><tpEmit>1</tpEmit><cLocEmi>3106200</cLocEmi><prest><CNPJ>13278005000122</CNPJ><fone>3192106582</fone><email>FERNANDOAVRA@GMAIL.COM</email><regTrib><opSimpNac>3</opSimpNac><regApTribSN>1</regApTribSN><regEspTrib>0</regEspTrib></regTrib></prest><serv><locPrest><cLocPrestacao>3106200</cLocPrestacao></locPrest><cServ><cTribNac>171102</cTribNac><cTribMun>002</cTribMun><xDescServ>Mensalidade Sistema Food Plus</xDescServ><cNBS>103012200</cNBS></cServ></serv><valores><vServPrest><vServ>1000.00</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN><tpRetISSQN>1</tpRetISSQN></tribMun><totTrib><pTotTribSN>12.00</pTotTribSN></totTrib></trib></valores></infDPS><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\" /><Reference URI=\"#DPS310620021327800500012200001000000000000030\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\" /><DigestValue>1+fPTAX2+g3i9lgip/eCKsb1VxE=</DigestValue></Reference></SignedInfo><SignatureValue>vmWg3guNP8nEAuck8IEOcDEitRLytb//RKWOS4BF4uyCJha+tt6cO0xT/G5+Vg71iys7L92sVlWP53sdtDRMoBGF/57TdnrfAd6G6ivzLlhmMNnY/Sfb1qMjaFxhDoFjXs3rwljnpU/ydoJGk/OG1ouBmIXFN/G4UOi/FRHL8V19XcwQ8UY5L2qYKedDlWbpm3fAw0jNUe04N34OKhw1rp29UqPk31X/IauyHsXL9a7nFUirDx1AJh7hYBh1SmTWSudEyTm2eSX+FGDUjoLgkr3IL2otlLY2D8iV8ZcNZ1xyUQvTS6Cp6m+xPi7kLRluuF6bjqHCjDlbs1z8iV9HXA==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></DPS></infNFSe><Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/2001/10/xml-exc-c14n#WithComments\" /><SignatureMethod Algorithm=\"http://www.w3.org/2001/04/xmldsig-more#rsa-sha256\" /><Reference URI=\"#NFS31062002213278005000122000000000003026018782617959\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\" /><Transform Algorithm=\"http://www.w3.org/2001/10/xml-exc-c14n#WithComments\" /></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2001/04/xmlenc#sha256\" /><DigestValue>PiKsKEYUK6Z6T0PzW6DVqeeOeP6LFgN9DnpZpd0Wxzg=</DigestValue></Reference></SignedInfo><SignatureValue>pMUKSQX90p0tnGes2w7V/rlnhRSJuxZNQlJXNPfU4SRbMt3/8Jh3hgBiyJsoUoKlaSD+QXnTIrOV+j0lXsi8VodG/F+WQ8+uTTxpyrjjCf6vBclTqMtkXdzZON2hVngXjqS64sAb9tVerod0nKnp0oaPZ88OnpxLr6Qob0CeAg21qGVEPAsckLaGHnuqEdsliAhSpGtClchYz7MKfjTMP6apHeL6bCSvawF2AEqp38ktB08aSHVeDRZnHH0kiSESzOeHnWMh9xYjxqytA81eCy1tRgn8rfS66yZBOD3NX4gnsslejqy6a6cscgsHfnAFSuS/lA1rqWcKpJD/kIpncw==</SignatureValue><KeyInfo><X509Data><X509Certificate>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</X509Certificate></X509Data></KeyInfo></Signature></NFSe>"}
+09/01/2026 16:31:11 - [DOWNLOAD_DADOS]
+09/01/2026 16:31:11 - {"chDPS":"310620021327800500012200001000000000000030","chNFSe":"31062002213278005000122000000000003026018782617959","tpAmb":"2","CNPJ":"13278005000122","tpDown":"XP"}
+09/01/2026 16:31:18 - [DOWNLOAD_STATUS]
+09/01/2026 16:31:18 - 200
+09/01/2026 16:31:29 - [JSON_RETORNO]
+09/01/2026 16:31:29 - {"chDPS":"310620021327800500012200001000000000000030","chNFSe":"31062002213278005000122000000000003026018782617959","statusEnvio":"200","statusConsulta":"200","statusDownload":"200","cStat":"100","nProt":"","motivo":"Autorizado o Uso do Documento","nsNRec":"82","erros":null}
+09/01/2026 16:31:29 - [EMISSAO_SINCRONA_FIM]
