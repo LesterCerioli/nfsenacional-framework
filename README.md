@@ -118,4 +118,4 @@ Confira um código para tratamento do retorno, no qual pegará as informações 
 
 -----
 
-Qualquer dúvida contate nossa equipe pelo Skype ou/e HelpDesk. Obrigado pela atenção!!
+Qualquer dúvida contate nossa equipe pelo WhatsApp ou/e HelpDesk. Obrigado pela atenção!!
