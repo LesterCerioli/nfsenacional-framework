@@ -119,3 +119,5 @@ Confira um código para tratamento do retorno, no qual pegará as informações 
 -----
 
 Qualquer dúvida contate nossa equipe pelo WhatsApp ou/e HelpDesk. Obrigado pela atenção!!
+
+Youtube(tutorial): https://youtu.be/cgDmU-J4WxY?si=hEgtg4VuHRat25mx
